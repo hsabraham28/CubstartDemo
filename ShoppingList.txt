@@ -1,5 +1,4 @@
 Apples
-Carrots
 Bananas
 Kiwis
 Lemons
